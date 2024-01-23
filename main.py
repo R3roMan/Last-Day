@@ -298,7 +298,7 @@ def main():
             gamestate = game_over(DISPLAYSCREEN)
     pygame.quit()
     sys.exit()
-
+#suber was here and stole this code from Max, it is now the property of Abdi.Inc
     
 if __name__ == "__main__":
     main()
